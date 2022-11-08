@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(226, 123, 158);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#imgdua{
+    border-radius: 50%;
+    border:solid 10px;
+    border-color: #e774c5;
+}
+
+
+.flexContenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.titulos{
+    font-size: 300%;
+    font-style: inherit;
+
+}
+ h1{font-size: 300%;
+ }
+
+#biografia {
+width: 70vw;
+text-align: center;
+    }
+
+
+.divInline{
+    display: block;
+    }
